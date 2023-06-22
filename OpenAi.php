@@ -7,7 +7,7 @@ class OpenAi {
     private $frequency_penalty = 0.0;
     private $presence_penalty = 0.0;		
     private $sModel = "text-davinci-003";
-	private $ApiKey = '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';
+	private $ApiKey = 'your api key';
 	
 	public function getAnswer(){
 		if($this->question) {
