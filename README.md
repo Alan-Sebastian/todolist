@@ -11,27 +11,27 @@ MODULE DESCRIPTION
 The section below explains modules in user authentication, task
 management, routine, assistant.
 
-#User authentication and authorisation module:
+User authentication and authorisation module:
 
 • Handles user login and authentication.
 • Secure access to the to-do list features.
 
-#Task management module:-
+Task management module:-
 • Allows user to create ,view, and delete tasks.
 • User can add assignments or projects.
 • User can prioritise task as pending,completed.
 • User can check progress in graphs.
 
-#Routine module :-
+Routine module :-
 • Provides user to create their daily routines or simple tasks.
 • User can set tasks done after its completion.
 
-#Assistant module:-
+Assistant module:-
 • Allows to-do list to integrate with external services or APIs.
 • User can ask doubts to the assistant and it provides sufficient
 answers.
 
-#screen shots
+
 Login page
 ![Screenshot (70)](https://github.com/user-attachments/assets/2e2ccf93-cdff-4639-b259-344f8f00c3ec)
 
